@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Abishek.S
-- 👀 I’m interested in software development and coding. 
-- 🌱 I’m currently learning python,SQL,and web frameworks for python such as flask,Django and i am getting into 
-- world of cloud architecture and learning AWS.
+- 👀 I’m interested in data engineering  and coding. 
+- 🌱 I’m currently learning python,SQL,and web frameworks for python such as Django and i am getting into 
+- world of cloud architecture and learning MicrosoftAzure.
+- In the side of Data Science and Data Analytics I have developed knowlege About Pyspark Library.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
