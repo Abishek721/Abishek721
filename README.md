@@ -30,7 +30,7 @@ I'm passionate about working on data-related projects. Here are a few examples:
 
 I'm always open to collaborating on interesting data projects or connecting with fellow data enthusiasts. If you have a project in mind or just want to chat about data, feel free to reach out!
 
-📫 You can contact me via email at [abisheksaravanan721@gmail.com](mailto:your.email@example.com).
+📫 You can contact me via email at [abisheksaravanan721@gmail.com](mailto:abisheksaravanan721@gmail.com).
 
 ## Connect with Me
 
