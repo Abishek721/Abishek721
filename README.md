@@ -30,11 +30,13 @@ I'm passionate about working on data-related projects. Here are a few examples:
 
 I'm always open to collaborating on interesting data projects or connecting with fellow data enthusiasts. If you have a project in mind or just want to chat about data, feel free to reach out!
 
-📫 You can contact me via email at [abisheksaravanan721@gmail.com](abisheksaravanan721@gmail.com).
+📫 You can contact me via email at [abisheksaravanan721@gmail.com](mailto:abisheksaravanan721@gmail.com).
 
-## Connect with Me
 
-Let's connect and share our passion for data! You can find me on:
+## Connect with Me:
+
+Let's connect and share our passion for data! 
+You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/abishek721/)
 - [GitHub](https://github.com/Abishek721)
